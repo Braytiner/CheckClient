@@ -17,3 +17,14 @@
 /.vs/VSWorkspaceState.json
 /.vs/slnx.sqlite
 /.vs/CheckClient/project-colors.json
+/bin/Debug/net6.0/ref
+/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/bin/Debug/net6.0/CheckClient.runtimeconfig.json
+/bin/Debug/net6.0/CheckClient.pdb
+/bin/Debug/net6.0/CheckClient.exe
+/bin/Debug/net6.0/CheckClient.dll
+/obj
+/bin/Debug/net6.0
