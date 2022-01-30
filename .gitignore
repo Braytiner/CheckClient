@@ -3,3 +3,17 @@
 ################################################################################
 
 /CheckClient/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/CheckClient/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/CheckClient/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/CheckClient/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/CheckClient/bin/Debug/net6.0/CheckClient.runtimeconfig.json
+/CheckClient/bin/Debug/net6.0/CheckClient.pdb
+/CheckClient/bin/Debug/net6.0/CheckClient.exe
+/CheckClient/bin/Debug/net6.0/CheckClient.dll
+/CheckClient/obj
+/.vs/CheckClient/v17
+/.vs/CheckClient/DesignTimeBuild
+/CheckClient/bin/Debug/net6.0
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/CheckClient/project-colors.json
